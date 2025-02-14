@@ -1,1 +1,1 @@
-# Epense_tracker_PyQt
+# Expense_tracker_PyQt
